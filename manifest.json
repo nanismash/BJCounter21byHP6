@@ -1,0 +1,63 @@
+{
+  "name": "Contador Blackjack",
+  "short_name": "BJ Counter",
+  "description": "Contador de cartas profesional para Blackjack. Sistemas Hi-Lo y KO con Basic Strategy, Illustrious 18, Fab 4 y Kelly Criterion.",
+  "start_url": "index.html",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "theme_color": "#065f46",
+  "background_color": "#065f46",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-192-maskable.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "icon-512-maskable.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "categories": ["games", "utilities"],
+  "screenshots": [
+    {
+      "src": "screenshot-splash.png",
+      "sizes": "1080x1177",
+      "type": "image/png",
+      "form_factor": "narrow"
+    },
+    {
+      "src": "screenshot-main.png",
+      "sizes": "1080x1534",
+      "type": "image/png",
+      "form_factor": "narrow"
+    },
+    {
+      "src": "screenshot-menu.png",
+      "sizes": "1080x1383",
+      "type": "image/png",
+      "form_factor": "narrow"
+    },
+    {
+      "src": "screenshot-chart.png",
+      "sizes": "1080x1762",
+      "type": "image/png",
+      "form_factor": "narrow"
+    }
+  ]
+}
